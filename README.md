@@ -1,2 +1,2 @@
-# Team01_Jobportal
+# Team_Blue_Jobportal
 Building job portal together
